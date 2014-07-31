@@ -11,6 +11,9 @@ Usage: To decide between IMPORTANT CHOICE A and IMPORTANT CHOICE B, simply say "
 heads, I will pick IMPORTANT CHOICE A, else I will pick IMPORTANT CHOICE B". Then select
 "Flip!" from the pulley menu and watch your device decide your life!
 
+It's also possible to flip for new results from the app Cover, though I'm not sure how
+useful that'd be.
+
 Code license is GPLv3 and BSD for the parts modified from Jolla's app template.
 
 Heads/Tails coin images are public domain:
