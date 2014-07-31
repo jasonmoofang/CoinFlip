@@ -10,20 +10,20 @@
 #   - translation filenames have to be changed
 
 # The name of your application
-TARGET = CoinFlip
+TARGET = harbour-coinflip
 
 CONFIG += sailfishapp
 
-SOURCES += src/CoinFlip.cpp
+SOURCES += src/harbour-coinflip.cpp
 
-OTHER_FILES += qml/CoinFlip.qml \
+OTHER_FILES += qml/harbour-coinflip.qml \
     qml/cover/CoverPage.qml \
     qml/pages/FirstPage.qml \
-    rpm/CoinFlip.changes.in \
-    rpm/CoinFlip.spec \
-    rpm/CoinFlip.yaml \
+    rpm/harbour-coinflip.changes.in \
+    rpm/harbour-coinflip.spec \
+    rpm/harbour-coinflip.yaml \
     translations/*.ts \
-    CoinFlip.desktop \
+    harbour-coinflip.desktop \
     qml/img/tails.png \
     qml/img/heads.png
 

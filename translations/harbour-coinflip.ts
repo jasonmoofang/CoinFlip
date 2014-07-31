@@ -2,17 +2,6 @@
 <!DOCTYPE TS>
 <TS version="2.0">
 <context>
-    <name>CoinFlip</name>
-    <message>
-        <source>Heads!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Tails!</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>CoverPage</name>
     <message>
         <source>Flip</source>
@@ -44,6 +33,17 @@
     <message>
         <source>CoinFlip 1.0
 by Lim Yuen Hoe (Jason moofang)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>harbour-coinflip</name>
+    <message>
+        <source>Heads!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tails!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
