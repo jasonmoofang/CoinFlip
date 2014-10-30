@@ -36,9 +36,26 @@ CoverBackground {
     property string result
     onResultChanged: updateCover(thecover.result)
 
+    Image {
+        source: "../img/cover.png"
+        opacity: 0.1
+        width: parent.width
+        height: sourceSize.height * width / sourceSize.width
+    }
+
+    Label {
+        id: covertitle
+        font.pixelSize: Theme.fontSizeLarge
+        anchors.top: parent.top
+        anchors.topMargin: Theme.paddingLarge
+        anchors.horizontalCenter: parent.horizontalCenter
+        text: "Coinflip"
+    }
+
     Label {
         id: covertext
         anchors.centerIn: parent
+        font.pixelSize: Theme.fontSizeExtraLarge
         text: qsTr("Flip")
     }
 
