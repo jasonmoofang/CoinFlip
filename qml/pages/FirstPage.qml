@@ -129,7 +129,7 @@ Page {
             }
             Label {
                 width: page.width
-                text: qsTr("CoinFlip 1.0\nby Lim Yuen Hoe (Jason moofang)") + "\n" + "github.com/jasonmoofang/CoinFlip"
+                text: qsTr("CoinFlip 1.0.1\nby Lim Yuen Hoe (Jason moofang)") + "\n" + "github.com/jasonmoofang/CoinFlip"
                 wrapMode: Text.Wrap
                 horizontalAlignment: Text.AlignHCenter
                 color: Theme.secondaryHighlightColor

@@ -25,7 +25,8 @@ OTHER_FILES += qml/harbour-coinflip.qml \
     translations/*.ts \
     harbour-coinflip.desktop \
     qml/img/tails.png \
-    qml/img/heads.png
+    qml/img/heads.png \
+    qml/img/cover.png
 
 # to disable building translations every time, comment out the
 # following CONFIG line

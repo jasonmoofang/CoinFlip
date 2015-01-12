@@ -31,7 +31,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>CoinFlip 1.0
+        <source>CoinFlip 1.0.1
 by Lim Yuen Hoe (Jason moofang)</source>
         <translation type="unfinished"></translation>
     </message>

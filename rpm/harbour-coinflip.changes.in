@@ -13,3 +13,5 @@
 #- Hoisted the sails
 
 
+* Mon Jan 12 2015 Lim Yuen Hoe <yuenhoe@hotmail.com> 1.0.1
+- Adapted and merged patch by rec0de for prettier cover
